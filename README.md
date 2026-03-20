@@ -12,7 +12,7 @@ Kaggle: NYC Airbnb Open Data
 - Fill NULLs where appropriate  
 - Produce analytical insights
 
-##Workflow
+## Workflow
 1. Dropped columns country and country_code due to redundancy 
 2. Cleaned neighbourhood_group values with incorrect spellings
 3. Converted last_review from text to date with correct date formatting
@@ -20,9 +20,9 @@ Kaggle: NYC Airbnb Open Data
 5. Missing neighbourhood_group values were inputed using existing neighbourhood-to-group mappings. 
 6. Converted price and service_fee from text to numeric, removing instances of ‘$’ and ‘,’
 
-##Insights
+## Insights
 1. Top 5 average listing prices in Bronx neighborhoods
 
-#How to Run
+## How to Run
 1. Open SQL scripts in PostgreSQL / pgAdmin4
 2. 
