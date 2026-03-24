@@ -25,4 +25,4 @@ Kaggle: NYC Airbnb Open Data
 
 ## How to Run
 1. Open SQL scripts in PostgreSQL / pgAdmin4
-2. 
+2. Run the queries from /sql folders in order
