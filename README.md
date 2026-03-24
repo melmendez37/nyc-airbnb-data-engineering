@@ -1,7 +1,7 @@
 # NYC Airbnb Data Engineering
 
 ## Project Title & Description
-NYC Airbnb Data Engineering Portfolio: SQL-based data cleaning and transformation pipeline.
+NYC Airbnb Data Engineering Portfolio: Built a SQL-based data cleaning and transformation pipeline using PostgreSQL to process and standardize an Airbnb dataset.
 
 ## Dataset Source
 Kaggle: NYC Airbnb Open Data
